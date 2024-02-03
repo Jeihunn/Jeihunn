@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeyhun Piriyev</h1>
-<h3 align="center">Python Backend Developer from Azerbaijan 🐍</h3>
+<h3 align="center">Python Developer from Azerbaijan 🐍</h3>
 
 <div align="center"><img width="500" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif" alt="backend-developer"></div>
 
@@ -22,6 +22,7 @@
     <li><strong>Backend Development:</strong> Python, Django, Flask, RESTful API, Celery, Nginx</li>
     <li><strong>Frontend Development:</strong> HTML, CSS, Bootstrap, JavaScript</li>
     <li><strong>Databases:</strong> SQLite, PostgreSQL, MongoDB, MySQL, Redis</li>
+    <li><strong>Testing:</strong> Selenium, Unit Testing, Postman</li>
     <li><strong>Problem Solving:</strong> Algorithm design and analysis, Debugging and troubleshooting, Performance optimization, Writing and automating tests</li>
     <li><strong>Version Control:</strong> Git, GitHub</li>
     <li><strong>DevOps:</strong> Docker</li>
