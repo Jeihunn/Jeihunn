@@ -20,7 +20,7 @@
 <h3 align="left">Skills 🚀 :</h3>
 <ul>
     <li><strong>Backend Development:</strong> Python, Django, Flask, RESTful API, Celery, Nginx</li>
-    <li><strong>Frontend Development:</strong> HTML, CSS, Bootstrap, JavaScript</li>
+    <li><strong>Frontend Development:</strong> HTML, CSS, Bootstrap, JavaScript, React</li>
     <li><strong>Databases:</strong> SQLite, PostgreSQL, MongoDB, MySQL, Redis</li>
     <li><strong>Testing:</strong> Selenium, Unit Testing, Postman</li>
     <li><strong>Problem Solving:</strong> Algorithm design and analysis, Debugging and troubleshooting, Performance optimization, Writing and automating tests</li>
