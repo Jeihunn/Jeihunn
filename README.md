@@ -1,31 +1,66 @@
 <h1 align="center">Hi 👋, I'm Jeyhun Piriyev</h1>
-<h3 align="center">Python Developer from Azerbaijan 🐍</h3>
+<h3 align="center">Software Developer from Azerbaijan 🐍</h3>
 
-<div align="center"><img width="500" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif" alt="backend-developer"></div>
+<div align="center"><img width="500" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="backend-developer"></div>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<div align="center">
+  <h2>Get in Touch ✉</h2>
+  <p>Feel free to reach out to me for any inquiries or collaborations!</p>
+  <p>
+    💬 Ask me about <strong>Python, Django</strong><br>
+    📫 How to reach me: <a href="mailto:jeihunpiriyev@gmail.com">jeihunpiriyev@gmail.com</a>
+  </p>
+  <h3>Connect with me 📧 :</h3>
+  <p>
+    <a href="https://codepen.io/jeihunn" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/jeihunpiriyev" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+    <a href="https://www.hackerrank.com/jeihunn" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
+    <a href="https://stackoverflow.com/users/22456197" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
+  </p>
+</div>
 
-- 💬 Ask me about **Python, Django**
-
-- 📫 How to reach me **jeihunpiriyev@gmail.com**
-
-<h3 align="left">Connect with me 📧 :</h3>
-<p align="left">
-<a href="https://codepen.io/jeihunn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jeihunn" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jeihunpiriyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeihunpiriyev" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/jeihunn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jeihunn" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22456197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22456197" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Skills 🚀 :</h3>
+<h3 align="left"> Technical Skills 💻 :</h3>
 <ul>
-    <li><strong>Backend Development:</strong> Python, Django, Flask, RESTful API, Celery, Nginx</li>
-    <li><strong>Frontend Development:</strong> HTML, CSS, Bootstrap, JavaScript, React</li>
-    <li><strong>Databases:</strong> SQLite, PostgreSQL, MongoDB, MySQL, Redis</li>
-    <li><strong>Testing:</strong> Selenium, Unit Testing, Postman</li>
-    <li><strong>Problem Solving:</strong> Algorithm design and analysis, Debugging and troubleshooting, Performance optimization, Writing and automating tests</li>
-    <li><strong>Version Control:</strong> Git, GitHub</li>
-    <li><strong>DevOps:</strong> Docker</li>
+    <li><strong>Programming Languages:</strong> Python, Java, JavaScript</li>
+    <li><strong>Web Development:</strong> Flask, Django, HTML, CSS, Bootstrap, React</li>
+    <li><strong>Databases:</strong> SQLite, MySQL, PostgreSQL, Redis</li>
+    <li><strong>APIs and Integration:</strong> RESTful API, Swagger, JSON</li>
+    <li><strong>DevOps and Infrastructure:</strong> Docker, Git</li>
+    <li><strong>Asynchronous Processing:</strong> Celery</li>
+    <li><strong>Testing and Quality Assurance:</strong> Unit Testing, Postman, Selenium, JMeter, TestRail</li>
+    <li><strong>Development Principles:</strong> Object-Oriented Programming (OOP)</li>
+    <li><strong>Tools and Software:</strong> MS Office, Jira</li>
 </ul>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeihunn&show_icons=true&locale=en&layout=compact" alt="jeihunn" /></p>
+<h3 align="left"> Soft Skills 🌟 :</h3>
+<ul>
+    <p>
+        <strong>Leadership</strong> •
+        <strong>Decision Making</strong> •
+        <strong>Teamwork</strong> •
+        <strong>Communication</strong> •
+        <strong>Problem Solving</strong> •
+        <strong>Analytical Thinking</strong> •
+        <strong>Creativity</strong> •
+        <strong>Time Management</strong> •
+        <strong>Stress Management</strong> •
+        <strong>Adaptability</strong> •
+        <strong>Learning Agility</strong> •
+        <strong>Test Planning</strong> •
+        <strong>Bug Fixing</strong> •
+        <strong>Documentation & Reporting</strong>
+    </p>
+</ul>
+
+---
+
+<div align="center">
+  <h3>“Code is like humor. When you have to explain it, it’s bad.”</h3>
+  <p><em>- Cory House</em></p>
+</div>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeihunn&show_icons=true&locale=en&layout=compact" alt="Top Languages">
+</p>
