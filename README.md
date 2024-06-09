@@ -7,10 +7,9 @@
   <h2>Get in Touch ✉</h2>
   <p>Feel free to reach out to me for any inquiries or collaborations!</p>
   <p>
-    💬 Ask me about <strong>Python, Django</strong><br>
     📫 How to reach me: <a href="mailto:jeihunpiriyev@gmail.com">jeihunpiriyev@gmail.com</a>
   </p>
-  <h3>Connect with me 📧 :</h3>
+  <h3>Connect with me 🌐 :</h3>
   <p>
     <a href="https://codepen.io/jeihunn" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40" /></a>
     <a href="https://linkedin.com/in/jeihunpiriyev" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
