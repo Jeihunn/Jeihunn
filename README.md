@@ -24,8 +24,7 @@
     <li><strong>Web Development:</strong> Flask, Django, HTML, CSS, Bootstrap, React</li>
     <li><strong>Databases:</strong> SQLite, MySQL, PostgreSQL, Redis</li>
     <li><strong>APIs and Integration:</strong> RESTful API, Swagger, JSON</li>
-    <li><strong>DevOps and Infrastructure:</strong> Docker, Git</li>
-    <li><strong>Asynchronous Processing:</strong> Celery</li>
+    <li><strong>DevOps and Infrastructure:</strong> Docker, Git, Celery</li>
     <li><strong>Testing and Quality Assurance:</strong> Unit Testing, Postman, Selenium, JMeter, TestRail</li>
     <li><strong>Development Principles:</strong> Object-Oriented Programming (OOP)</li>
     <li><strong>Tools and Software:</strong> MS Office, Jira</li>
@@ -34,20 +33,20 @@
 <h3 align="left"> Soft Skills 🌟 :</h3>
 <ul>
     <p>
-        <strong>Leadership</strong> •
-        <strong>Decision Making</strong> •
-        <strong>Teamwork</strong> •
-        <strong>Communication</strong> •
-        <strong>Problem Solving</strong> •
-        <strong>Analytical Thinking</strong> •
-        <strong>Creativity</strong> •
-        <strong>Time Management</strong> •
-        <strong>Stress Management</strong> •
-        <strong>Adaptability</strong> •
-        <strong>Learning Agility</strong> •
-        <strong>Test Planning</strong> •
-        <strong>Bug Fixing</strong> •
-        <strong>Documentation & Reporting</strong>
+        Leadership •
+        Decision Making •
+        Teamwork •
+        Communication •
+        Problem Solving •
+        Analytical Thinking •
+        Creativity •
+        Time Management •
+        Stress Management •
+        Adaptability •
+        Learning Agility •
+        Test Planning •
+        Bug Fixing •
+        Documentation & Reporting
     </p>
 </ul>
 
