@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeyhun Piriyev</h1>
-<h3 align="center">Software Developer from Azerbaijan 🐍</h3>
+<h3 align="center">Software Engineer from Azerbaijan 🐍</h3>
 
 <div align="center"><img width="500" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="backend-developer"></div>
 
