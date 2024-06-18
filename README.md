@@ -30,26 +30,6 @@
     <li><strong>Tools and Software:</strong> MS Office, Jira</li>
 </ul>
 
-<h3 align="left"> Soft Skills 🌟 :</h3>
-<ul>
-    <p>
-        Leadership •
-        Decision Making •
-        Teamwork •
-        Communication •
-        Problem Solving •
-        Analytical Thinking •
-        Creativity •
-        Time Management •
-        Stress Management •
-        Adaptability •
-        Learning Agility •
-        Test Planning •
-        Bug Fixing •
-        Documentation & Reporting
-    </p>
-</ul>
-
 ---
 
 <div align="center">
