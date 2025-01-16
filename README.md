@@ -15,6 +15,8 @@
     <a href="https://linkedin.com/in/jeihunpiriyev" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
     <a href="https://www.hackerrank.com/jeihunn" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
     <a href="https://stackoverflow.com/users/22456197" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
+    <a href="https://medium.com/@jeihunpiriyev" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
+    <a href="https://www.youtube.com/@Jeihunn" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
   </p>
 </div>
 
@@ -23,10 +25,11 @@
     <li><strong>Programming Languages:</strong> Python, Java, JavaScript</li>
     <li><strong>Web Development:</strong> Flask, Django, HTML, CSS, Bootstrap, React</li>
     <li><strong>Databases:</strong> SQLite, MySQL, PostgreSQL, Redis</li>
-    <li><strong>APIs and Integration:</strong> RESTful API, Swagger, JSON</li>
+    <li><strong>APIs and Documentation:</strong> RESTful API, SOAP, Swagger</li>
+    <li><strong>Data Formats:</strong> JSON, XML, YAML, CSV, Markdown</li>
     <li><strong>DevOps and Infrastructure:</strong> Docker, Git, Celery</li>
-    <li><strong>Testing and Quality Assurance:</strong> Unit Testing, Postman, Selenium, JMeter, TestRail</li>
-    <li><strong>Development Principles:</strong> Object-Oriented Programming (OOP)</li>
+    <li><strong>Testing and Quality Assurance:</strong> Unit Testing, Manual Testing, Automated Testing, PyTest, JUnit, Postman, Selenium, JMeter, Locust, TestRail</li>
+    <li><strong>Development Principles:</strong> OOP, SOLID, Clean Code, TDD, BDD, Agile</li>
     <li><strong>Tools and Software:</strong> MS Office, Jira</li>
 </ul>
 
