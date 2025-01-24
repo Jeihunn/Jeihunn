@@ -32,7 +32,7 @@
     <li><strong>Testing and Quality Assurance:</strong> Unit Testing, Manual Testing, Automated Testing, PyTest, JUnit, Postman, Selenium, JMeter, Locust</li>
     <li><strong>Data Analysis and Visualization:</strong> Pandas, NumPy, Power BI</li>
     <li><strong>Development Principles:</strong> OOP, SOLID, Design Patterns, Clean Code, Test-driven development (TDD), Behavior-driven development (BDD), Agile</li>
-    <li><strong>Tools and Software:</strong> MS Office, Jira, Trello, Swagger, TestRail</li>
+    <li><strong>Tools and Software:</strong> MS Office, Jira, Trello, Swagger, TestRail, GitHub</li>
 </ul>
 
 ---
