@@ -23,16 +23,16 @@
 <h3 align="left"> Technical Skills 💻 :</h3>
 <ul>
     <li><strong>Programming Languages:</strong> Python, Java, JavaScript</li>
-    <li><strong>Web Development:</strong> Flask, FastAPI, Django, HTML, CSS, Bootstrap, React</li>
+    <li><strong>Web Development:</strong> Flask, FastAPI, Django, Celery HTML, CSS, Bootstrap, React</li>
     <li><strong>Databases:</strong> SQLite, MySQL, PostgreSQL, MongoDB, Redis</li>
-    <li><strong>APIs and Documentation:</strong> RESTful API, SOAP, Swagger</li>
+    <li><strong>APIs:</strong> RESTful API, SOAP</li>
     <li><strong>Data Formats:</strong> JSON, XML, YAML, CSV, Markdown</li>
-    <li><strong>DevOps and Infrastructure:</strong> Docker, Git, Celery</li>
+    <li><strong>DevOps and Infrastructure:</strong> Docker, Git</li>
     <li><strong>Cloud Platforms:</strong> Google Cloud Platform (GCP), Amazon Web Services (AWS)</li>
-    <li><strong>Testing and Quality Assurance:</strong> Unit Testing, Manual Testing, Automated Testing, PyTest, JUnit, Postman, Selenium, JMeter, Locust, TestRail</li>
+    <li><strong>Testing and Quality Assurance:</strong> Unit Testing, Manual Testing, Automated Testing, PyTest, JUnit, Postman, Selenium, JMeter, Locust</li>
     <li><strong>Data Analysis and Visualization:</strong> Pandas, NumPy, Power BI</li>
     <li><strong>Development Principles:</strong> OOP, SOLID, Design Patterns, Clean Code, Test-driven development (TDD), Behavior-driven development (BDD), Agile</li>
-    <li><strong>Tools and Software:</strong> MS Office, Jira</li>
+    <li><strong>Tools and Software:</strong> MS Office, Jira, Trello, Swagger, TestRail</li>
 </ul>
 
 ---
