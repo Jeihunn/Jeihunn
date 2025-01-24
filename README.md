@@ -27,7 +27,7 @@
     <li><strong>Databases:</strong> SQLite, MySQL, PostgreSQL, MongoDB, Redis</li>
     <li><strong>APIs:</strong> RESTful API, SOAP</li>
     <li><strong>Data Formats:</strong> JSON, XML, YAML, CSV, Markdown</li>
-    <li><strong>DevOps and Infrastructure:</strong> Docker, Git</li>
+    <li><strong>DevOps and Infrastructure:</strong> Docker, Git, Nginx</li>
     <li><strong>Cloud Platforms:</strong> Google Cloud Platform (GCP), Amazon Web Services (AWS)</li>
     <li><strong>Testing and Quality Assurance:</strong> Unit Testing, Manual Testing, Automated Testing, PyTest, JUnit, Postman, Selenium, JMeter, Locust</li>
     <li><strong>Data Analysis and Visualization:</strong> Pandas, NumPy, Power BI</li>
