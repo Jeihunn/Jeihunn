@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeyhun Piriyev</h1>
-<h3 align="center">Software Engineer from Azerbaijan 🐍</h3>
+<h3 align="center">Software & QA Engineer from Azerbaijan 🐍</h3>
 
 <div align="center"><img width="500" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="backend-developer"></div>
 
@@ -24,14 +24,14 @@
 <ul>
     <li><strong>Programming Languages:</strong> Python, Java, JavaScript</li>
     <li><strong>Web Development:</strong> Flask, FastAPI, Django, HTML, CSS, Bootstrap, React</li>
-    <li><strong>Databases:</strong> SQLite, MySQL, PostgreSQL, Redis</li>
+    <li><strong>Databases:</strong> SQLite, MySQL, PostgreSQL, MongoDB, Redis</li>
     <li><strong>APIs and Documentation:</strong> RESTful API, SOAP, Swagger</li>
     <li><strong>Data Formats:</strong> JSON, XML, YAML, CSV, Markdown</li>
     <li><strong>DevOps and Infrastructure:</strong> Docker, Git, Celery</li>
-    <li><strong>Cloud Platforms:</strong> Google Cloud Platform (GCP)</li>
+    <li><strong>Cloud Platforms:</strong> Google Cloud Platform (GCP), Amazon Web Services (AWS)</li>
     <li><strong>Testing and Quality Assurance:</strong> Unit Testing, Manual Testing, Automated Testing, PyTest, JUnit, Postman, Selenium, JMeter, Locust, TestRail</li>
     <li><strong>Data Analysis and Visualization:</strong> Pandas, NumPy, Power BI</li>
-    <li><strong>Development Principles:</strong> OOP, SOLID, Clean Code, TDD, BDD, Agile</li>
+    <li><strong>Development Principles:</strong> OOP, SOLID, Design Patterns, Clean Code, Test-driven development (TDD), Behavior-driven development (BDD), Agile</li>
     <li><strong>Tools and Software:</strong> MS Office, Jira</li>
 </ul>
 
