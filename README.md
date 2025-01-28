@@ -22,7 +22,7 @@
 
 <h3 align="left"> Technical Skills 💻 :</h3>
 <ul>
-    <li><strong>Programming Languages:</strong> Python, Java, JavaScript</li>
+    <li><strong>Programming Languages:</strong> Python, Java, JavaScript, VBA (Excel)</li>
     <li><strong>Web Development:</strong> Flask, FastAPI, Django, Celery, HTML, CSS, Bootstrap, React</li>
     <li><strong>Databases:</strong> SQLite, MySQL, PostgreSQL, MongoDB, Redis</li>
     <li><strong>APIs:</strong> RESTful API, SOAP</li>
